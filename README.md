@@ -1,4 +1,5 @@
 # Netti-Nuker 
+Soon releasing src
 A basic Nuker in python 3.9+ to share fear in Discord
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/haxnetting/Netti-Nuker)
